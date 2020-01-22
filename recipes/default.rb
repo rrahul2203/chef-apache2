@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: chef-webser
+# Cookbook Name:: chef-webserver
 # Recipe:: default
 
 package 'apache2'
